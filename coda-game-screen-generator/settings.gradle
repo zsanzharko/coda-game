@@ -1,0 +1,3 @@
+rootProject.name = 'coda-game-screen-generator'
+include('lib')
+
