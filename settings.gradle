@@ -1,0 +1,3 @@
+rootProject.name = 'coda-game'
+
+include('coda-game-engine', 'coda-game-screen-generator', 'coda-telegram-bot')
